@@ -53,5 +53,4 @@ public class TestDay4 {
         assertNotNull(winner, "Race should have a winner after simulation.");
         assertEquals("Dasher",winner,"Winner should be Dasher");
     }
-
 }
